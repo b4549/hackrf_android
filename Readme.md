@@ -1,4 +1,4 @@
-HackRF Library for Android
+HackRF Library for Android's 
 ==========================
 
 This repository is a ported version of Michael Ossmann's libhackrf
